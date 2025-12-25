@@ -29,11 +29,12 @@
 - Sorting & Searching Algorithms
 - Recursion & Backtracking
 - Graph Basics
+- Dynamic Programming & Greedy basics
 
 ### 🤖 Machine Learning
-- Scikit-learn
-- Regression, Classification, Clustering
-- Ensemble Learning (Random Forest, Boosting)
+- Scikit-learn, pandas
+- Regression, Classification, Clustering, EDA
+- Ensemble Learning (Random Forest, Boosting, stacking)
 
 ### 🧬 Deep Learning
 - Neural Networks (ANN)
@@ -60,10 +61,6 @@
 🔹 **Weather App**  
 🔹 **Hospital Finder App**  
 🔹 **PitchForge – AI Pitch Enablement Platform**  
-- AI-powered pitch simulator  
-- Speech-to-text recording  
-- Real-time AI feedback  
-- Interactive 3D product views  
 
 ---
 
@@ -77,7 +74,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: **ashambar.chaturvedi.ug24@nsut.ac.in**
-- 💼 GitHub: [github.com/your-username](https://github.com/your-username)
+- My Website: **https://coolchammp26.vercel.app**
 
 ---
 
