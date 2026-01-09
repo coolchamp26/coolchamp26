@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ashambar Chaturvedi
 
 🎓 Computer Science & Artificial Intelligence (CSAI) student at **NSUT**  
-💻 Interested in **Data Structures & Algorithms, Machine Learning, and Deep Learning**
+💻 Interested in **Data Structures & Algorithms, Web Development, Machine Learning, and Deep Learning**
 
 ---
 
