@@ -39,6 +39,7 @@
 ### 🧬 Deep Learning
 - Neural Networks (ANN)
 - Basic understanding of CNNs and RNNs
+- LSTMs
 - Model training and evaluation concepts
 
 ### 🌐 Web Development
@@ -57,9 +58,9 @@
 
 ## 📌 Projects
 
-🔹 **Calculator App**  
+🔹 **Internet Speed Test website**  
 🔹 **Weather App**  
-🔹 **Hospital Finder App**  
+🔹 **JANUS-AI Fraud Detection**  
 🔹 **PitchForge – AI Pitch Enablement Platform**  
 
 ---
@@ -74,8 +75,4 @@
 
 ## 📫 Connect With Me
 - 📧 Email: **ashambar.chaturvedi.ug24@nsut.ac.in**
-- My Website: **[https://coolchammp26.vercel.app](https://coolchamp26.vercel.app/)**
-
----
-
-⭐ **If you like my work, feel free to star my repositories!**
+- My Website: **[https://coolchammp26.vercel.app](https://ashambar.vercel.app/)**
